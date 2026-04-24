@@ -72,16 +72,6 @@ Leading a team of 8 developers to build a community platform connecting Filipino
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DerrickThrower/DerrickThrower/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DerrickThrower/DerrickThrower/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DerrickThrower/DerrickThrower/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on projects, discussing ideas, or just chatting about tech!
