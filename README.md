@@ -56,31 +56,13 @@ Leading a team of 8 developers to build a community platform connecting Filipino
 
 - 🏗️ Full-stack development
 - 🎯 Building tools that make people's lives easier
-- 🎨 UI/UX design
-- 🔧 Hackathons and side projects
-- 🌱 Exploring new technologies and frameworks
+- 🔧 Hackathons
 
----
-
-## 📊 GitHub Stats
-
-![Derrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DerrickThrower&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickThrower&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DerrickThrower&theme=radical)
-
----
 
 ## 🤝 Let's Connect!
-
-I'm always open to collaborating on projects, discussing ideas, or just chatting about tech!
 
 - 📧 **Email:** [throwerderrick24@gmail.com](mailto:throwerderrick24@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/derrick-thrower](https://linkedin.com/in/your-profile)
 - 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 ---
-
-*Last updated: 2026-04-24*  
-Feel free to reach out if you'd like to connect or collaborate! 🤝
