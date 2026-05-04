@@ -63,6 +63,6 @@ Leading a team of 8 developers to build a community platform connecting Filipino
 
 - 📧 **Email:** [throwerderrick24@gmail.com](mailto:throwerderrick24@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/derrick-thrower](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- 🌐 **Portfolio:** [derrickthrower.com](https://derrickthrower.com)
 
 ---
